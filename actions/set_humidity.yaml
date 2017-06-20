@@ -1,6 +1,6 @@
 ---
 name: "set_humidity"
-runner_type: "run-python"
+runner_type: "python-script"
 description: "Set humidity goal for nest"
 enabled: true
 entry_point: "set_humidity.py"

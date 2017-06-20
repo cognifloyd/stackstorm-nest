@@ -1,6 +1,6 @@
 ---
 name: "show"
-runner_type: "run-python"
+runner_type: "python-script"
 description: "Show current Nest information"
 enabled: true
 entry_point: "show.py"
