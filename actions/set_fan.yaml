@@ -1,6 +1,6 @@
 ---
 name: "set_fan"
-runner_type: "run-python"
+runner_type: "python-script"
 description: "Manage fan state"
 enabled: true
 entry_point: "set_fan.py"

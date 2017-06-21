@@ -1,6 +1,6 @@
 ---
 name: "get_temperature"
-runner_type: "run-python"
+runner_type: "python-script"
 description: "Get the current temperature."
 enabled: true
 entry_point: "get_temperature.py"
