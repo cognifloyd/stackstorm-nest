@@ -1,2 +1,2 @@
-python-nest
+python-nest<3.0
 pytz

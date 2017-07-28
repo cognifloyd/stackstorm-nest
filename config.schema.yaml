@@ -11,13 +11,13 @@
     required: true
   structure:
     description: "Default nest home ID to query (Default: 0)"
-    type: "string"
+    type: "integer"
     secret: false
     required: false
-    default: "0"
+    default: 0
   device:
     description: "Default nest device ID to query (Default: 0)"
-    type: "string"
+    type: integer
     secret: false
     required: false
-    default: "0"
+    default: 0
