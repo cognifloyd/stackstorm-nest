@@ -3,6 +3,7 @@
 ## 0.3.1
 
 - Pinned `python-nest` to < 3.0. Newer versions require OAuth setup
+- Fixed parameter type for device/structure in config.schema - should be integer
 
 ## 0.3.0
 
